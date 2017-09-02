@@ -1,0 +1,7 @@
+Que mas pues?.
+*Comandos git utiles
+git status
+git clone
+git add
+git push
+
